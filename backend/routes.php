@@ -1,2 +1,2 @@
 <?php
-$myVar = echo 'Hello World!';
+$myVar = echo '<h1>Hello World!</h1>';
